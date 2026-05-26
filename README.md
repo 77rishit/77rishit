@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rishit%20Patel&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Open%20Source%20Explorer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B1026,100:141E46&height=240&section=header&text=Rishit%20Patel&fontSize=58&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Open%20Source%20Explorer&descAlignY=58"/>
 
 </div>
 
@@ -10,14 +10,21 @@
 
 # ⚡ SYSTEM INITIALIZED ⚡
 
-```diff
-+ Name     : Rishit Patel
-+ Role     : Full Stack Developer
-+ Status   : Learning • Building • Shipping
-+ Location : India
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+Initializing+Rishit.exe;%3E+Loading+Developer+Profile;%3E+React+%7C+Firebase+%7C+Node.js;%3E+Building+Modern+Web+Experiences;%3E+Open+Source+Contributor;%3E+Always+Learning+Something+New" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;React+%7C+Firebase+%7C+Node.js;Open+Source+Contributor;Cyberpunk+UI+Enthusiast;Always+Learning+Something+New" />
+</div>
+
+<br>
+
+<div align="center">
+
+| SYSTEM INFO | STATUS |
+|-------------|--------|
+| 👨‍💻 Developer | Rishit Patel |
+| ⚡ Role | Full Stack Developer |
+| 🚀 Focus | Modern Web Development |
+| 🌌 Theme | Cyberpunk Interfaces |
+| 📍 Location | India |
 
 </div>
 
@@ -27,18 +34,26 @@
 
 ```yaml
 name: Rishit Patel
-education: Computer Engineering
-specialization: Full Stack Development
+
+education:
+  - Computer Engineering
+
 currently_learning:
   - Advanced React
-  - Backend Systems
+  - Backend Development
   - Open Source Contribution
 
 interests:
   - Modern UI/UX
   - Cyberpunk Interfaces
   - AI Tools
-  - Real-time Applications
+  - Real-Time Applications
+
+life_cycle:
+  - Code
+  - Build
+  - Learn
+  - Repeat
 ```
 
 ---
@@ -60,15 +75,15 @@ interests:
 | PROJECT | DESCRIPTION |
 |---------|-------------|
 | 🌐 Portfolio Website | Modern animated developer portfolio |
-| 💬 Chat Application | Real-time messaging with Firebase |
-| 🏨 Hostel Finder | Hostel discovery & comparison platform |
-| 🤖 AI UI Experiments | Futuristic interface concepts |
+| 💬 Real-Time Chat App | Live messaging with Firebase |
+| 🏨 Hostel Finder Platform | Hostel discovery & comparison website |
+| 🤖 AI UI Experiments | Futuristic UI & animation concepts |
 
 </div>
 
 ---
 
-# 📡 CONNECT_PROTOCOLS
+# 🌐 CONNECT_PROTOCOLS
 
 <div align="center">
 
@@ -76,11 +91,11 @@ interests:
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
-<a href="https://instagram.com">
+<a href="https://instagram.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
 </a>
 
@@ -130,7 +145,7 @@ interests:
 
 ---
 
-# 👁 VISITOR_SCAN
+# 👁 PROFILE_VISITORS
 
 <div align="center">
 
@@ -140,19 +155,28 @@ interests:
 
 ---
 
+# ⚡ TERMINAL_OUTPUT
+
 <div align="center">
 
-## ⚡ FINAL_TRANSMISSION
-
 ```bash
+> booting developer mode...
+
 while(alive) {
-    eat();
-    code();
-    learn();
-    repeat();
+   eat();
+   code();
+   learn();
+   sleep();
+   repeat();
 }
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E46,50:0B1026,100:050816&height=140&section=footer"/>
 
 </div>
