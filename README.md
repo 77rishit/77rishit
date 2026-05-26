@@ -1,133 +1,158 @@
-<h1 align="center">Hi 👋, I'm Rishit Patel</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Engineering Student • Full Stack Developer • Open Source Contributor
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rishit%20Patel&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Open%20Source%20Explorer&descAlignY=58"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Building+Modern+Websites;React+%7C+Firebase+%7C+Node.js;Always+Learning+New+Things" />
-</p>
+</div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
 
-- 🎓 Computer Engineering Student
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning advanced React & Backend
-- ⚡ Building modern and responsive web applications
-- 🔥 Exploring Open Source Contributions
-- 📫 Reach me at: **yourmail@gmail.com**
+# ⚡ SYSTEM INITIALIZED ⚡
+
+```diff
++ Name     : Rishit Patel
++ Role     : Full Stack Developer
++ Status   : Learning • Building • Shipping
++ Location : India
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;React+%7C+Firebase+%7C+Node.js;Open+Source+Contributor;Cyberpunk+UI+Enthusiast;Always+Learning+Something+New" />
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🧠 ABOUT_ME.exe
 
-<p align="left">
+```yaml
+name: Rishit Patel
+education: Computer Engineering
+specialization: Full Stack Development
+currently_learning:
+  - Advanced React
+  - Backend Systems
+  - Open Source Contribution
+
+interests:
+  - Modern UI/UX
+  - Cyberpunk Interfaces
+  - AI Tools
+  - Real-time Applications
+```
+
+---
+
+# ⚙️ TECH_STACK.dll
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,firebase,python,java,c,cpp,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+# 🚀 PROJECT_ARCHIVE
+
+<div align="center">
+
+| PROJECT | DESCRIPTION |
+|---------|-------------|
+| 🌐 Portfolio Website | Modern animated developer portfolio |
+| 💬 Chat Application | Real-time messaging with Firebase |
+| 🏨 Hostel Finder | Hostel discovery & comparison platform |
+| 🤖 AI UI Experiments | Futuristic interface concepts |
+
+</div>
+
+---
+
+# 📡 CONNECT_PROTOCOLS
+
+<div align="center">
 
 <a href="https://github.com/77rishit">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+<a href="https://instagram.com">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F7FF"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 📊 GITHUB_ANALYTICS
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,express,mongodb,firebase,java,c,cpp,python,git,github,vscode" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=77rishit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77rishit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
----
-
-# 🚀 Featured Projects
-
-## 🌐 Portfolio Website
-🔗 https://portfolio30rishit.lovable.app/
-
-Modern developer portfolio with animations and responsive UI.
+</div>
 
 ---
 
-## 💬 Real-Time Chat App
+# 🔥 STREAK_SYSTEM
 
-Built using React + Firebase with authentication and live messaging.
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=77rishit&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-## 🏨 Hostel Finder Platform
-
-Find and compare hostels with location and pricing features.
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# 📈 CONTRIBUTION_MATRIX
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=77rishit&show_icons=true&theme=tokyonight" height="180em"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=77rishit&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77rishit&layout=compact&theme=tokyonight" height="180em"/>
-
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🏆 ACHIEVEMENTS_UNLOCKED
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=77rishit&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=77rishit&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=77rishit&theme=tokyonight&row=1&column=6"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Contribution Graph
+# 👁 VISITOR_SCAN
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=77rishit&theme=tokyo-night"/>
+<img src="https://komarev.com/ghpvc/?username=77rishit&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=77rishit&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# ✨ Quote
+<div align="center">
 
-<p align="center">
+## ⚡ FINAL_TRANSMISSION
 
-“Code. Build. Learn. Repeat.”
+```bash
+while(alive) {
+    eat();
+    code();
+    learn();
+    repeat();
+}
+```
 
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+</div>
